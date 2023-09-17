@@ -1,0 +1,9 @@
+*.pyc
+*__pycache__*
+*.pkl
+*.DS_Store
+*.idea
+angr-dev
+*.bak
+*.swp
+
